@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo16 -N"F:\Tasks\College\Second Term\LAPS\Lap 8 Mahmoud\Code\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\Tasks\College\Second Term\LAPS\Lap 8 Mahmoud\Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 73	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 71 (20%)  Free RAM (bytes): 281 (80%)	Used RAM (bytes): 71 (20%)  Free RAM (bytes): 281 (80%)
+hint: 0	1144	Used ROM (program words): 590 (7%)  Free ROM (program words): 7602 (93%)	Used ROM (program words): 590 (7%)  Free ROM (program words): 7602 (93%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 29 √»—Ì· 2023, 05:08:22	MyProject.mcppi

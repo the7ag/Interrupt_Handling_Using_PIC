@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"F:\Tasks\College\Second Term\LAPS\Lap 8 Mahmoud\Task2\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\Tasks\College\Second Term\LAPS\Lap 8 Mahmoud\Task2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+hint: 25	1171	Statement "Delay_1us;" has no effect, missing "( )" to become function call	MyProject.c
+hint: 32	1171	Statement "Delay_1us;" has no effect, missing "( )" to become function call	MyProject.c
+hint: 41	1171	Statement "Delay_1us;" has no effect, missing "( )" to become function call	MyProject.c
+diagnostics: 61	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 13 (4%)  Free RAM (bytes): 339 (96%)	Used RAM (bytes): 13 (4%)  Free RAM (bytes): 339 (96%)
+hint: 0	1144	Used ROM (program words): 202 (2%)  Free ROM (program words): 7990 (98%)	Used ROM (program words): 202 (2%)  Free ROM (program words): 7990 (98%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 13 ãÇíæ 2023, 23:41:50	MyProject.mcppi
