@@ -70,4 +70,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Acknowledgements
 This project was developed based on the PIC16F877A datasheet and various online resources. We would like to express our gratitude to the contributors and authors of those resources for their valuable insights and knowledge.
 
-For any questions or concerns, please contact the7ag@gmail.com
+For any questions or concerns, please contact the7ag22477@gmail.com
